@@ -1,0 +1,28 @@
+{
+  "name": "Social-Network-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/via-skillings/Social-Network-API"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/via-skillings/Social-Network-API"
+  },
+  "homepage": "https://github.com/via-skillings/Social-Network-API",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
